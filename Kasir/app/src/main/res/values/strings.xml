@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kasir</string>
+    <string name="desc_kasirAct">Digunakan untuk mengirim
+    jumlah pembayaran ke server</string>
+    <string name="desc_bosAct">Digunakan untuk menerima
+    data yang dikirim oleh server</string>
+</resources>
